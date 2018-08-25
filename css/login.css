@@ -1,0 +1,47 @@
+
+body
+{
+	margin:0px;
+	padding:0px;
+	background:#D4D4D4;
+	font-family:Times New Roman
+ }
+ #main
+ {
+	height:90%;
+	width:80%;
+	margin:30px auto;
+	background:white;
+	box-shadow:0px 0px 30px 10px;
+	border-radius:5px;
+  }
+ #logo
+ {
+	height:500px;
+	width:500px;
+	float:left;
+	margin:40px 0px 0px 20px;
+ }	
+ #lfORM
+ {
+	height:260px;
+	width:350px;
+	float:left;
+	border:2px solid;
+	box-shadow:0px 0px 30px 2px;
+	margin:180px 0px 0px 170px;
+  }
+ 
+ #header
+ { 
+	background:black;
+	color:white;
+	height:20px;
+	text-align:center;
+	font-size:20px;
+	padding:5px
+ }
+ #from
+ {
+	margin:30px;
+ }

@@ -1,0 +1,32 @@
+body
+{
+	margin:0px;
+	padding:0px;
+	background:#D4D4D4;
+	font-family:Times New Roman
+ }
+ #header
+ {
+  
+	height:100px;
+	width:100%;
+	padding:10px;
+	background:black;
+	position:fixed;
+	}
+	.menu{
+	color:white;
+	display:inline-block;
+	margin:10px;
+	padding:10px;
+	font-family:Arial;
+	
+	}
+	.menu:hover{
+	color:black;
+	background:white;
+	border-radius:5px;
+
+	
+
+	}
